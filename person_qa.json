@@ -2,6 +2,6 @@
   "person": {
     "apiUrl": "url into QA server",
     "name": "Volo",
-    "flavorName": "QA",
+    "flavorName": "QA"
   }
 }
