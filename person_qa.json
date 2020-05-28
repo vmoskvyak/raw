@@ -1,10 +1,7 @@
 {
   "person": {
-    "apiUrl": "https://github.com",
-    "name": "Volo QA",
-    "lastName": "Moskvyak",
-    "github": "https://github.com/vmoskvyak",
-    "twitter": "none",
-    "website": "none"
+    "apiUrl": "url into QA server",
+    "name": "Volo",
+    "flavorName": "QA",
   }
 }
