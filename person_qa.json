@@ -1,6 +1,6 @@
 {
   "person": {
-    "apiUrl": "person_qa.json",
+    "apiUrl": "https://github.com/vmoskvyak/raw/blob/master/person_qa.json",
     "name": "Julio",
     "lastName": "Bitencourt",
     "github": "github.com/JHBitencourt",
